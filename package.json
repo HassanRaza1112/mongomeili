@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "meilisearch": "^0.14.0",
+    "meilisearch": "^0.24.0",
     "mongoose": "^5.10.9"
   },
   "keywords": ["mongodb", "meilisearch", "mongoose", "database", "search", "sync"]
